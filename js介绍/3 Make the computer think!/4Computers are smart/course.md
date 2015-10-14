@@ -27,7 +27,7 @@ In the example above the condition
 `"myName".length >= 7` evaluates to `false` since  
   `"myName"` only has 6 letters. Since the  
  condition is `false`, only the code inside the  
- curly braces after the else keyword runs, and  
+ curly braces after the `else` keyword runs, and  
  prints out `You have a short name!`.
 ***
 ##Instructions
